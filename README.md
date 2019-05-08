@@ -11,8 +11,7 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 - surprise library doc: http://surprise.readthedocs.io/en/stable/getting_started.html (we use many models from this library)
 - installing surprise: https://github.com/NicolasHug/Surprise#installation
 - Research paper: http://courses.ischool.berkeley.edu/i290-dm/s11/SECURE/a1-koren.pdf (most of our work was inspired by this paper)
-
-SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c**
+- SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c**
 ## Real world/Business Objectives and constraints 
 - **Objectives:**
 1. Predict the rating that a user would give to a movie that he has not yet rated.
